@@ -1,6 +1,6 @@
 # 🌦️ Airflow ETL Weather Pipeline ##
 
-Hello to **Airflow ETL Weather** — an end-to-end **ETL (Extract, Transform, Load) pipeline** built using **Apache Airflow** and **Astronomer Runtime**, fully containerized with **Docker**.
+Welcome to **Airflow ETL Weather** — an end-to-end **ETL (Extract, Transform, Load) pipeline** built using **Apache Airflow** and **Astronomer Runtime**, fully containerized with **Docker**.
 
 This project demonstrates how to design, run, and monitor a **production-style Airflow workflow** locally using the **Astronomer CLI**.
 
